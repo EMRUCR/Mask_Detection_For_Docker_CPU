@@ -19,6 +19,8 @@ CLI:
 --input (required)
 --output (optional, filename only)
 
+UI Version => https://github.com/EMRUCR/Mask_Detection_with_UI
+
 ###################################
 
 TURKISH – TR
@@ -41,3 +43,6 @@ docker run --rm -v "$(pwd)/inputs:/app/inputs" -v "$(pwd)/outputs:/app/outputs" 
 CLI:
 --input (zorunlu)
 --output (isteğe bağlı, sadece dosya adı)
+
+UI Versiyonu => https://github.com/EMRUCR/Mask_Detection_with_UI
+
