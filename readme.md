@@ -20,6 +20,7 @@ CLI:
 --output (optional, filename only)
 
 UI Version => https://github.com/EMRUCR/Mask_Detection_with_UI
+
 Docker Link => https://hub.docker.com/r/mremre06/yolo-facemask-detection-cpu
 
 ###################################
@@ -46,6 +47,8 @@ CLI:
 --output (isteğe bağlı, sadece dosya adı)
 
 UI Versiyonu => https://github.com/EMRUCR/Mask_Detection_with_UI
+
 Docker Linki => https://hub.docker.com/r/mremre06/yolo-facemask-detection-cpu
+
 
 
